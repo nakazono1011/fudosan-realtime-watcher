@@ -1,0 +1,47 @@
+name: Tokyo R Estate Watcher
+
+on:
+  schedule:
+    # 15分ごとに実行（UTC）
+    # 注意: GitHubの負荷により、実際の実行は数分遅れることがあります
+    - cron: '*/15 * * * *'
+  workflow_dispatch:
+    # 手動実行を許可
+
+jobs:
+  watch:
+    runs-on: ubuntu-latest
+    
+    # 同時実行を防ぐ（前の実行が終わるまで待つ）
+    concurrency:
+      group: tokyo-r-watcher
+      cancel-in-progress: false
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run watcher
+        env:
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          LINE_USER_ID: ${{ secrets.LINE_USER_ID }}
+        run: python main.py
+
+      - name: Commit and push if changed
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add data/properties.json
+          git diff --staged --quiet || git commit -m "Update properties.json [skip ci]"
+          git push

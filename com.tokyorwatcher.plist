@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Label</key>
+    <string>com.tokyorwatcher</string>
+
+    <key>ProgramArguments</key>
+    <array>
+        <string>/usr/bin/env</string>
+        <string>python3</string>
+        <string>/Users/nakazono/dev/tokyo-r-watcher/main.py</string>
+    </array>
+
+    <key>WorkingDirectory</key>
+    <string>/Users/nakazono/dev/tokyo-r-watcher</string>
+
+    <key>EnvironmentVariables</key>
+    <dict>
+        <key>PATH</key>
+        <string>/usr/local/bin:/usr/bin:/bin</string>
+        <!-- LINE Messaging API設定は後で設定してください -->
+        <!-- <key>LINE_CHANNEL_ACCESS_TOKEN</key> -->
+        <!-- <string>YOUR_CHANNEL_ACCESS_TOKEN_HERE</string> -->
+        <!-- <key>LINE_USER_ID</key> -->
+        <!-- <string>YOUR_USER_ID_HERE</string> -->
+    </dict>
+
+    <key>StartInterval</key>
+    <integer>900</integer>
+
+    <key>RunAtLoad</key>
+    <true/>
+
+    <key>StandardOutPath</key>
+    <string>/Users/nakazono/dev/tokyo-r-watcher/logs/launchd_stdout.log</string>
+
+    <key>StandardErrorPath</key>
+    <string>/Users/nakazono/dev/tokyo-r-watcher/logs/launchd_stderr.log</string>
+</dict>
+</plist>
