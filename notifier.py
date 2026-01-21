@@ -56,9 +56,9 @@ def send_line_notification(message: str) -> bool:
         return False
 
 
-def notify_new_property(prop: Property) -> bool:
+def notify_new_property(prop: Property, site_name: str = "東京R不動産") -> bool:
     """新着物件をLINEに通知"""
-    message = f"""【新着物件】東京R不動産
+    message = f"""【新着物件】{site_name}
 
 {prop.title}
 
@@ -70,7 +70,7 @@ def notify_new_property(prop: Property) -> bool:
     return send_line_notification(message)
 
 
-def notify_new_properties(properties: list[Property]) -> int:
+def notify_new_properties(properties: list[Property], site_name: str = "東京R不動産") -> int:
     """複数の新着物件をLINEに通知"""
     if not properties:
         return 0
@@ -79,7 +79,7 @@ def notify_new_properties(properties: list[Property]) -> int:
 
     # 物件数が多い場合はまとめて通知
     if len(properties) > 3:
-        summary = f"【新着物件】東京R不動産\n\n{len(properties)}件の新着物件があります！\n"
+        summary = f"【新着物件】{site_name}\n\n{len(properties)}件の新着物件があります！\n"
         for prop in properties[:5]:
             summary += f"\n{prop.title}\n{prop.rent} / {prop.area}\n{prop.url}\n"
         if len(properties) > 5:
@@ -90,7 +90,7 @@ def notify_new_properties(properties: list[Property]) -> int:
     else:
         # 個別に通知
         for prop in properties:
-            if notify_new_property(prop):
+            if notify_new_property(prop, site_name):
                 success_count += 1
 
     return success_count

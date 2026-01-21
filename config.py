@@ -20,6 +20,11 @@ BASE_URL = "https://www.realtokyoestate.co.jp"
 DATA_DIR = BASE_DIR / "data"
 PROPERTIES_FILE = DATA_DIR / "properties.json"
 
+# リノベ百貨店の設定
+RENOV_SEARCH_URL = "https://www.renov-depart.jp/sch/sch_list.php"
+RENOV_BASE_URL = "https://www.renov-depart.jp"
+RENOV_PROPERTIES_FILE = DATA_DIR / "renov_properties.json"
+
 # ログ設定
 LOG_DIR = BASE_DIR / "logs"
 LOG_FILE = LOG_DIR / "watcher.log"
