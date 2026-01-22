@@ -1,5 +1,15 @@
 [
   {
+    "id": "1904191211",
+    "title": "三宿グラシ",
+    "location": "",
+    "rent": "195,000円/10,000円",
+    "area": "59.55㎡",
+    "station": "池尻大橋駅徒歩8分",
+    "url": "https://www.renov-depart.jp/detail/001/1904191211/",
+    "description": ""
+  },
+  {
     "id": "ka250926_504",
     "title": "パン屋の上の住処",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "50.23㎡",
     "station": "三軒茶屋駅徒歩7分",
     "url": "https://www.renov-depart.jp/detail/001/hy251122_6_6F/",
-    "description": ""
-  },
-  {
-    "id": "ko251207_1_702",
-    "title": "7階南の眺望",
-    "location": "",
-    "rent": "184,000円/10,000円",
-    "area": "50.46㎡",
-    "station": "上北沢駅徒歩5分",
-    "url": "https://www.renov-depart.jp/detail/001/ko251207_1_702/",
     "description": ""
   }
 ]
