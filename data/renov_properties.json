@@ -1,5 +1,15 @@
 [
   {
+    "id": "ka250926_504",
+    "title": "パン屋の上の住処",
+    "location": "",
+    "rent": "200,000円/10,000円",
+    "area": "55.71㎡",
+    "station": "八幡山駅徒歩4分",
+    "url": "https://www.renov-depart.jp/detail/001/ka250926_504/",
+    "description": ""
+  },
+  {
     "id": "na250515_1_2F",
     "title": "新しい温かみハウス",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "50.46㎡",
     "station": "上北沢駅徒歩5分",
     "url": "https://www.renov-depart.jp/detail/001/ko251207_1_702/",
-    "description": ""
-  },
-  {
-    "id": "ue251205_3_402",
-    "title": "味わいレトロと外を満喫",
-    "location": "",
-    "rent": "230,000円/10,000円",
-    "area": "61.8㎡",
-    "station": "麻布十番駅徒歩5分",
-    "url": "https://www.renov-depart.jp/detail/001/ue251205_3_402/",
     "description": ""
   }
 ]
