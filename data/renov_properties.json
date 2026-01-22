@@ -1,5 +1,15 @@
 [
   {
+    "id": "na250515_1_2F",
+    "title": "新しい温かみハウス",
+    "location": "",
+    "rent": "275,000円",
+    "area": "62.22㎡",
+    "station": "等々力駅徒歩9分",
+    "url": "https://www.renov-depart.jp/detail/001/na250515_1_2F/",
+    "description": ""
+  },
+  {
     "id": "ka240606_2",
     "title": "コンクリート宮殿2LDK",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "61.8㎡",
     "station": "麻布十番駅徒歩5分",
     "url": "https://www.renov-depart.jp/detail/001/ue251205_3_402/",
-    "description": ""
-  },
-  {
-    "id": "tt251021_2_2B",
-    "title": "私は東横線の人",
-    "location": "",
-    "rent": "249,000円/10,000円",
-    "area": "69㎡",
-    "station": "自由が丘駅徒歩4分",
-    "url": "https://www.renov-depart.jp/detail/001/tt251021_2_2B/",
     "description": ""
   }
 ]
