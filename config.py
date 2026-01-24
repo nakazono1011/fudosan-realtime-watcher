@@ -34,8 +34,8 @@ LOG_FILE = LOG_DIR / "watcher.log"
 LINE_CHANNEL_ACCESS_TOKEN = os.environ.get("LINE_CHANNEL_ACCESS_TOKEN", "")
 LINE_USER_ID = os.environ.get("LINE_USER_ID", "")
 
-# LINE Messaging API URL（プッシュメッセージ用）
-LINE_MESSAGING_API = "https://api.line.me/v2/bot/message/push"
+# LINE Messaging API URL（ブロードキャスト用 - 友だち全員に送信）
+LINE_MESSAGING_API = "https://api.line.me/v2/bot/message/broadcast"
 
 # ディレクトリが存在しない場合は作成
 DATA_DIR.mkdir(exist_ok=True)

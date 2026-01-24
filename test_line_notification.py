@@ -4,7 +4,7 @@ import logging
 import sys
 from datetime import datetime
 
-from config import LINE_CHANNEL_ACCESS_TOKEN, LINE_USER_ID
+from config import LINE_CHANNEL_ACCESS_TOKEN
 from notifier import send_line_notification, notify_new_property, notify_new_properties
 from scraper import Property
 
@@ -143,12 +143,8 @@ def main():
     else:
         print("  ✗ LINE_CHANNEL_ACCESS_TOKEN が設定されていません")
         return 1
-    
-    if LINE_USER_ID:
-        print(f"  LINE_USER_ID: {LINE_USER_ID}")
-    else:
-        print("  ✗ LINE_USER_ID が設定されていません")
-        return 1
+
+    print("  ※ Broadcast APIを使用（友だち全員に送信されます）")
     
     # テスト実行
     results = []

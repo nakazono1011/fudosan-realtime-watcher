@@ -4,20 +4,16 @@ import logging
 
 import requests
 
-from config import LINE_CHANNEL_ACCESS_TOKEN, LINE_USER_ID, LINE_MESSAGING_API
+from config import LINE_CHANNEL_ACCESS_TOKEN, LINE_MESSAGING_API
 from scraper import Property
 
 logger = logging.getLogger(__name__)
 
 
 def send_line_notification(message: str) -> bool:
-    """LINE Messaging APIでプッシュメッセージを送信"""
+    """LINE Messaging APIでブロードキャストメッセージを送信（友だち全員に通知）"""
     if not LINE_CHANNEL_ACCESS_TOKEN:
         logger.warning("LINE_CHANNEL_ACCESS_TOKENが設定されていません")
-        return False
-
-    if not LINE_USER_ID:
-        logger.warning("LINE_USER_IDが設定されていません")
         return False
 
     headers = {
@@ -29,7 +25,6 @@ def send_line_notification(message: str) -> bool:
     truncated_message = message[:5000] if len(message) > 5000 else message
 
     data = {
-        "to": LINE_USER_ID,
         "messages": [
             {
                 "type": "text",
@@ -103,11 +98,8 @@ if __name__ == "__main__":
     if not LINE_CHANNEL_ACCESS_TOKEN:
         print("LINE_CHANNEL_ACCESS_TOKEN環境変数を設定してください")
         print("例: export LINE_CHANNEL_ACCESS_TOKEN='your_token_here'")
-    elif not LINE_USER_ID:
-        print("LINE_USER_ID環境変数を設定してください")
-        print("例: export LINE_USER_ID='your_user_id_here'")
     else:
-        # テスト通知
+        # テスト通知（注意: 友だち全員に送信されます）
         test_prop = Property(
             id="test",
             title="テスト物件",

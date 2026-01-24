@@ -5,7 +5,7 @@ import sys
 from datetime import datetime
 from logging.handlers import RotatingFileHandler
 
-from config import LOG_FILE, LINE_CHANNEL_ACCESS_TOKEN, LINE_USER_ID
+from config import LOG_FILE, LINE_CHANNEL_ACCESS_TOKEN
 from scraper import (
     fetch_properties,
     load_saved_properties,
@@ -68,7 +68,7 @@ def watch_tokyo_r(logger) -> bool:
             for prop in new_properties:
                 logger.info(f"  - {prop.title} ({prop.rent} / {prop.area})")
 
-            if LINE_CHANNEL_ACCESS_TOKEN and LINE_USER_ID:
+            if LINE_CHANNEL_ACCESS_TOKEN:
                 notified = notify_new_properties(new_properties, "東京R不動産")
                 logger.info(f"東京R不動産 LINE通知送信: {notified}件")
             else:
@@ -112,7 +112,7 @@ def watch_renov(logger) -> bool:
             for prop in new_properties:
                 logger.info(f"  - {prop.title} ({prop.rent} / {prop.area})")
 
-            if LINE_CHANNEL_ACCESS_TOKEN and LINE_USER_ID:
+            if LINE_CHANNEL_ACCESS_TOKEN:
                 notified = notify_new_properties(new_properties, "リノベ百貨店")
                 logger.info(f"リノベ百貨店 LINE通知送信: {notified}件")
             else:
