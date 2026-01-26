@@ -1,5 +1,15 @@
 [
   {
+    "id": "yk260126_1_404",
+    "title": "家族で穏やか暮らし",
+    "location": "",
+    "rent": "230,000円",
+    "area": "64.5㎡",
+    "station": "参宮橋駅徒歩5分",
+    "url": "https://www.renov-depart.jp/detail/001/yk260126_1_404/",
+    "description": ""
+  },
+  {
     "id": "ka2601222",
     "title": "四季を愛でる",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "75.43㎡",
     "station": "中野駅徒歩5分",
     "url": "https://www.renov-depart.jp/detail/001/hy251212_6_3A/",
-    "description": ""
-  },
-  {
-    "id": "hy251122_6_6F",
-    "title": "光に満ちる",
-    "location": "",
-    "rent": "249,000円/5,000円",
-    "area": "50.23㎡",
-    "station": "三軒茶屋駅徒歩7分",
-    "url": "https://www.renov-depart.jp/detail/001/hy251122_6_6F/",
     "description": ""
   }
 ]
