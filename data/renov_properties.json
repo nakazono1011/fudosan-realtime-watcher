@@ -120,16 +120,6 @@
     "description": ""
   },
   {
-    "id": "sm20240627_1_7",
-    "title": "レトロポップ",
-    "location": "",
-    "rent": "239,000円/10,000円",
-    "area": "74.12㎡",
-    "station": "奥沢駅徒歩1分",
-    "url": "https://www.renov-depart.jp/detail/001/sm20240627_1_7/",
-    "description": ""
-  },
-  {
     "id": "ue250725_1_105",
     "title": "ペットとこだわり暮らし",
     "location": "",
@@ -197,6 +187,16 @@
     "area": "75.43㎡",
     "station": "中野駅徒歩5分",
     "url": "https://www.renov-depart.jp/detail/001/hy251212_6_3A/",
+    "description": ""
+  },
+  {
+    "id": "hy251122_6_6F",
+    "title": "光に満ちる",
+    "location": "",
+    "rent": "249,000円/5,000円",
+    "area": "50.23㎡",
+    "station": "三軒茶屋駅徒歩7分",
+    "url": "https://www.renov-depart.jp/detail/001/hy251122_6_6F/",
     "description": ""
   }
 ]
