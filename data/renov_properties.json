@@ -1,15 +1,5 @@
 [
   {
-    "id": "yk260126_1_404",
-    "title": "家族で穏やか暮らし",
-    "location": "",
-    "rent": "230,000円",
-    "area": "64.5㎡",
-    "station": "参宮橋駅徒歩5分",
-    "url": "https://www.renov-depart.jp/detail/001/yk260126_1_404/",
-    "description": ""
-  },
-  {
     "id": "ka2601222",
     "title": "四季を愛でる",
     "location": "",
@@ -17,6 +7,16 @@
     "area": "70.85㎡",
     "station": "浜田山駅徒歩9分",
     "url": "https://www.renov-depart.jp/detail/001/ka2601222/",
+    "description": ""
+  },
+  {
+    "id": "yk260126_1_404",
+    "title": "家族で穏やか暮らし",
+    "location": "",
+    "rent": "230,000円",
+    "area": "64.5㎡",
+    "station": "参宮橋駅徒歩5分",
+    "url": "https://www.renov-depart.jp/detail/001/yk260126_1_404/",
     "description": ""
   },
   {
