@@ -1,5 +1,15 @@
 [
   {
+    "id": "yk260129_2_202",
+    "title": "静けさと安心感",
+    "location": "",
+    "rent": "255,000円/5,000円",
+    "area": "58.96㎡",
+    "station": "松陰神社前駅徒歩9分",
+    "url": "https://www.renov-depart.jp/detail/001/yk260129_2_202/",
+    "description": ""
+  },
+  {
     "id": "hy251223_5_302",
     "title": "余白の旋律",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "53.68㎡",
     "station": "三軒茶屋駅徒歩11分",
     "url": "https://www.renov-depart.jp/detail/001/ha250617_2_207/",
-    "description": ""
-  },
-  {
-    "id": "hy251212_6_3A",
-    "title": "ひかりの棲む部屋",
-    "location": "",
-    "rent": "280,000円",
-    "area": "75.43㎡",
-    "station": "中野駅徒歩5分",
-    "url": "https://www.renov-depart.jp/detail/001/hy251212_6_3A/",
     "description": ""
   }
 ]
