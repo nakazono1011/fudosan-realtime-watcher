@@ -1,15 +1,5 @@
 [
   {
-    "id": "hy251122_6_6F",
-    "title": "光に満ちる",
-    "location": "",
-    "rent": "249,000円/5,000円",
-    "area": "50.23㎡",
-    "station": "三軒茶屋駅徒歩7分",
-    "url": "https://www.renov-depart.jp/detail/001/hy251122_6_6F/",
-    "description": ""
-  },
-  {
     "id": "ue260203_2_502",
     "title": "やさしい蔵前暮らし",
     "location": "",
@@ -197,6 +187,16 @@
     "area": "68.04㎡",
     "station": "学芸大学駅徒歩6分",
     "url": "https://www.renov-depart.jp/detail/001/ha250909_2_2f/",
+    "description": ""
+  },
+  {
+    "id": "ha250627_2_002d",
+    "title": "メルヘンチックなお家",
+    "location": "",
+    "rent": "297,000円",
+    "area": "72.81㎡",
+    "station": "都立大学駅徒歩6分",
+    "url": "https://www.renov-depart.jp/detail/001/ha250627_2_002d/",
     "description": ""
   }
 ]
