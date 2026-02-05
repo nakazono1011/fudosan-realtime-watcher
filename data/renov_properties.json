@@ -1,5 +1,15 @@
 [
   {
+    "id": "ue260205_3_502",
+    "title": "淡く柔らかい",
+    "location": "",
+    "rent": "175,000円/15,000円",
+    "area": "35.11㎡",
+    "station": "代田橋駅徒歩10分",
+    "url": "https://www.renov-depart.jp/detail/001/ue260205_3_502/",
+    "description": ""
+  },
+  {
     "id": "ue260205_2_402",
     "title": "シンプルで淡く",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "45.59㎡",
     "station": "渋谷駅徒歩10分",
     "url": "https://www.renov-depart.jp/detail/001/tt251125_1_421/",
-    "description": ""
-  },
-  {
-    "id": "ha250909_2_2f",
-    "title": "レトロ木造リノベ",
-    "location": "",
-    "rent": "200,000円",
-    "area": "68.04㎡",
-    "station": "学芸大学駅徒歩6分",
-    "url": "https://www.renov-depart.jp/detail/001/ha250909_2_2f/",
     "description": ""
   }
 ]
