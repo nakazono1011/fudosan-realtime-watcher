@@ -120,16 +120,6 @@
     "description": ""
   },
   {
-    "id": "yk260126_1_404",
-    "title": "家族で穏やか暮らし",
-    "location": "",
-    "rent": "230,000円",
-    "area": "64.5㎡",
-    "station": "参宮橋駅徒歩5分",
-    "url": "https://www.renov-depart.jp/detail/001/yk260126_1_404/",
-    "description": ""
-  },
-  {
     "id": "na251222_501",
     "title": "緑を望む世田谷リノベ",
     "location": "",
@@ -197,6 +187,16 @@
     "area": "45.59㎡",
     "station": "渋谷駅徒歩10分",
     "url": "https://www.renov-depart.jp/detail/001/tt251125_1_421/",
+    "description": ""
+  },
+  {
+    "id": "ha250909_2_2f",
+    "title": "レトロ木造リノベ",
+    "location": "",
+    "rent": "200,000円",
+    "area": "68.04㎡",
+    "station": "学芸大学駅徒歩6分",
+    "url": "https://www.renov-depart.jp/detail/001/ha250909_2_2f/",
     "description": ""
   }
 ]
