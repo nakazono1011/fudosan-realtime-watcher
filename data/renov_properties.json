@@ -1,5 +1,25 @@
 [
   {
+    "id": "na260213_4_308",
+    "title": "欲張りリノベ①",
+    "location": "",
+    "rent": "173,000円/10,000円",
+    "area": "55.35㎡",
+    "station": "北浦和駅徒歩6分",
+    "url": "https://www.renov-depart.jp/detail/001/na260213_4_308/",
+    "description": ""
+  },
+  {
+    "id": "na260213_4_502",
+    "title": "欲張りリノベ②",
+    "location": "",
+    "rent": "175,000円/10,000円",
+    "area": "55.09㎡",
+    "station": "北浦和駅徒歩6分",
+    "url": "https://www.renov-depart.jp/detail/001/na260213_4_502/",
+    "description": ""
+  },
+  {
     "id": "na260213_2_C",
     "title": "解ける暮らし",
     "location": "",
@@ -177,26 +197,6 @@
     "area": "55.71㎡",
     "station": "八幡山駅徒歩4分",
     "url": "https://www.renov-depart.jp/detail/001/ka250926_504/",
-    "description": ""
-  },
-  {
-    "id": "na250515_1_2F",
-    "title": "新しい温かみハウス",
-    "location": "",
-    "rent": "275,000円",
-    "area": "62.22㎡",
-    "station": "等々力駅徒歩9分",
-    "url": "https://www.renov-depart.jp/detail/001/na250515_1_2F/",
-    "description": ""
-  },
-  {
-    "id": "nk260115_1_302",
-    "title": "ナチュラルにペットと",
-    "location": "",
-    "rent": "235,000円/18,000円",
-    "area": "41.63㎡",
-    "station": "西新宿五丁目駅徒歩7分",
-    "url": "https://www.renov-depart.jp/detail/001/nk260115_1_302/",
     "description": ""
   }
 ]
