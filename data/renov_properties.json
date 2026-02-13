@@ -1,15 +1,5 @@
 [
   {
-    "id": "hy260213_7_201",
-    "title": "窓辺に都会のやさしさを",
-    "location": "",
-    "rent": "143,000円/10,000円",
-    "area": "31.06㎡",
-    "station": "三軒茶屋駅徒歩11分",
-    "url": "https://www.renov-depart.jp/detail/001/hy260213_7_201/",
-    "description": ""
-  },
-  {
     "id": "hy260213_1_3B",
     "title": "すりガラス超しの淡さ",
     "location": "",
@@ -17,6 +7,16 @@
     "area": "50㎡",
     "station": "北千束駅徒歩3分",
     "url": "https://www.renov-depart.jp/detail/001/hy260213_1_3B/",
+    "description": ""
+  },
+  {
+    "id": "hy260213_7_201",
+    "title": "窓辺に都会のやさしさを",
+    "location": "",
+    "rent": "143,000円/10,000円",
+    "area": "31.06㎡",
+    "station": "三軒茶屋駅徒歩11分",
+    "url": "https://www.renov-depart.jp/detail/001/hy260213_7_201/",
     "description": ""
   },
   {
