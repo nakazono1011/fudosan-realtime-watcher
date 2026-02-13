@@ -1,5 +1,15 @@
 [
   {
+    "id": "na260213_2_C",
+    "title": "解ける暮らし",
+    "location": "",
+    "rent": "266,000円/10,000円",
+    "area": "74.45㎡",
+    "station": "祐天寺駅徒歩7分",
+    "url": "https://www.renov-depart.jp/detail/001/na260213_2_C/",
+    "description": ""
+  },
+  {
     "id": "hy260213_1_3B",
     "title": "すりガラス超しの淡さ",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "41.63㎡",
     "station": "西新宿五丁目駅徒歩7分",
     "url": "https://www.renov-depart.jp/detail/001/nk260115_1_302/",
-    "description": ""
-  },
-  {
-    "id": "hy251023_1_303",
-    "title": "ヘリンボーンに誘われて",
-    "location": "",
-    "rent": "285,000円/10,000円",
-    "area": "60.43㎡",
-    "station": "駒沢大学駅徒歩14分",
-    "url": "https://www.renov-depart.jp/detail/001/hy251023_1_303/",
     "description": ""
   }
 ]
