@@ -40,16 +40,6 @@
     "description": ""
   },
   {
-    "id": "hy260213_7_201",
-    "title": "窓辺に都会のやさしさを",
-    "location": "",
-    "rent": "143,000円/10,000円",
-    "area": "31.06㎡",
-    "station": "三軒茶屋駅徒歩11分",
-    "url": "https://www.renov-depart.jp/detail/001/hy260213_7_201/",
-    "description": ""
-  },
-  {
     "id": "ka260213_301",
     "title": "隠れた逸材",
     "location": "",
@@ -197,6 +187,16 @@
     "area": "55.71㎡",
     "station": "八幡山駅徒歩4分",
     "url": "https://www.renov-depart.jp/detail/001/ka250926_504/",
+    "description": ""
+  },
+  {
+    "id": "na250515_1_2F",
+    "title": "新しい温かみハウス",
+    "location": "",
+    "rent": "275,000円",
+    "area": "62.22㎡",
+    "station": "等々力駅徒歩9分",
+    "url": "https://www.renov-depart.jp/detail/001/na250515_1_2F/",
     "description": ""
   }
 ]
