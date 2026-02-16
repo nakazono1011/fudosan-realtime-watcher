@@ -1,5 +1,25 @@
 [
   {
+    "id": "yk260216_2_302",
+    "title": "ペットとぽかぽか",
+    "location": "",
+    "rent": "270,000円/15,000円",
+    "area": "47.12㎡",
+    "station": "桜新町駅徒歩8分",
+    "url": "https://www.renov-depart.jp/detail/001/yk260216_2_302/",
+    "description": ""
+  },
+  {
+    "id": "yk260216_1_204",
+    "title": "無垢床と、やさしい街",
+    "location": "",
+    "rent": "285,000円/15,000円",
+    "area": "50.85㎡",
+    "station": "桜新町駅徒歩8分",
+    "url": "https://www.renov-depart.jp/detail/001/yk260216_1_204/",
+    "description": ""
+  },
+  {
     "id": "ka250926_504",
     "title": "パン屋の上の住処",
     "location": "",
@@ -177,26 +197,6 @@
     "area": "54.81㎡",
     "station": "幡ヶ谷駅徒歩4分",
     "url": "https://www.renov-depart.jp/detail/001/ak260124_1_726/",
-    "description": ""
-  },
-  {
-    "id": "na250515_1_2F",
-    "title": "新しい温かみハウス",
-    "location": "",
-    "rent": "275,000円",
-    "area": "62.22㎡",
-    "station": "等々力駅徒歩9分",
-    "url": "https://www.renov-depart.jp/detail/001/na250515_1_2F/",
-    "description": ""
-  },
-  {
-    "id": "nk260115_1_302",
-    "title": "ナチュラルにペットと",
-    "location": "",
-    "rent": "235,000円/18,000円",
-    "area": "41.63㎡",
-    "station": "西新宿五丁目駅徒歩7分",
-    "url": "https://www.renov-depart.jp/detail/001/nk260115_1_302/",
     "description": ""
   }
 ]
