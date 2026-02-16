@@ -1,5 +1,15 @@
 [
   {
+    "id": "ka250926_504",
+    "title": "パン屋の上の住処",
+    "location": "",
+    "rent": "200,000円/10,000円",
+    "area": "55.71㎡",
+    "station": "八幡山駅徒歩4分",
+    "url": "https://www.renov-depart.jp/detail/001/ka250926_504/",
+    "description": ""
+  },
+  {
     "id": "na260213_2_C",
     "title": "解ける暮らし",
     "location": "",
@@ -140,16 +150,6 @@
     "description": ""
   },
   {
-    "id": "ka251029_202",
-    "title": "心地よさを重ねる暮らし",
-    "location": "",
-    "rent": "159,000円/19,000円",
-    "area": "51.7㎡",
-    "station": "八幡山駅徒歩8分",
-    "url": "https://www.renov-depart.jp/detail/001/ka251029_202/",
-    "description": ""
-  },
-  {
     "id": "yk260129_2_202",
     "title": "静けさと安心感",
     "location": "",
@@ -180,16 +180,6 @@
     "description": ""
   },
   {
-    "id": "ka250926_504",
-    "title": "パン屋の上の住処",
-    "location": "",
-    "rent": "200,000円/10,000円",
-    "area": "55.71㎡",
-    "station": "八幡山駅徒歩4分",
-    "url": "https://www.renov-depart.jp/detail/001/ka250926_504/",
-    "description": ""
-  },
-  {
     "id": "na250515_1_2F",
     "title": "新しい温かみハウス",
     "location": "",
@@ -197,6 +187,16 @@
     "area": "62.22㎡",
     "station": "等々力駅徒歩9分",
     "url": "https://www.renov-depart.jp/detail/001/na250515_1_2F/",
+    "description": ""
+  },
+  {
+    "id": "nk260115_1_302",
+    "title": "ナチュラルにペットと",
+    "location": "",
+    "rent": "235,000円/18,000円",
+    "area": "41.63㎡",
+    "station": "西新宿五丁目駅徒歩7分",
+    "url": "https://www.renov-depart.jp/detail/001/nk260115_1_302/",
     "description": ""
   }
 ]
