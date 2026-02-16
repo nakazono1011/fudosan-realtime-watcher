@@ -1,15 +1,5 @@
 [
   {
-    "id": "yk260216_2_302",
-    "title": "ペットとぽかぽか",
-    "location": "",
-    "rent": "270,000円/15,000円",
-    "area": "47.12㎡",
-    "station": "桜新町駅徒歩8分",
-    "url": "https://www.renov-depart.jp/detail/001/yk260216_2_302/",
-    "description": ""
-  },
-  {
     "id": "yk260216_1_204",
     "title": "無垢床と、やさしい街",
     "location": "",
@@ -17,6 +7,16 @@
     "area": "50.85㎡",
     "station": "桜新町駅徒歩8分",
     "url": "https://www.renov-depart.jp/detail/001/yk260216_1_204/",
+    "description": ""
+  },
+  {
+    "id": "yk260216_2_302",
+    "title": "ペットとぽかぽか",
+    "location": "",
+    "rent": "270,000円/15,000円",
+    "area": "47.12㎡",
+    "station": "桜新町駅徒歩8分",
+    "url": "https://www.renov-depart.jp/detail/001/yk260216_2_302/",
     "description": ""
   },
   {
