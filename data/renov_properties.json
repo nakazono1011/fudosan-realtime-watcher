@@ -1,5 +1,15 @@
 [
   {
+    "id": "sm20240627_1_7",
+    "title": "レトロポップ",
+    "location": "",
+    "rent": "239,000円/10,000円",
+    "area": "74.12㎡",
+    "station": "奥沢駅徒歩1分",
+    "url": "https://www.renov-depart.jp/detail/001/sm20240627_1_7/",
+    "description": ""
+  },
+  {
     "id": "1904191211",
     "title": "三宿グラシ",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "71.5㎡",
     "station": "品川駅徒歩13分",
     "url": "https://www.renov-depart.jp/detail/001/ue260130_3_1006/",
-    "description": ""
-  },
-  {
-    "id": "hy260130_4_502",
-    "title": "光がめぐる",
-    "location": "",
-    "rent": "220,000円/5,000円",
-    "area": "75㎡",
-    "station": "荏原中延駅徒歩2分",
-    "url": "https://www.renov-depart.jp/detail/001/hy260130_4_502/",
     "description": ""
   }
 ]
