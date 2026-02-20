@@ -1,5 +1,15 @@
 [
   {
+    "id": "ue260220_3_702",
+    "title": "街を見渡す",
+    "location": "",
+    "rent": "270,000円",
+    "area": "66.28㎡",
+    "station": "四ツ谷駅徒歩5分",
+    "url": "https://www.renov-depart.jp/detail/001/ue260220_3_702/",
+    "description": ""
+  },
+  {
     "id": "ue260220_2_202",
     "title": "駅近レトロ",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "35.11㎡",
     "station": "代田橋駅徒歩10分",
     "url": "https://www.renov-depart.jp/detail/001/ue260205_3_502/",
-    "description": ""
-  },
-  {
-    "id": "ue260205_2_402",
-    "title": "シンプルで淡く",
-    "location": "",
-    "rent": "174,000円/15,000円",
-    "area": "35.11㎡",
-    "station": "代田橋駅徒歩10分",
-    "url": "https://www.renov-depart.jp/detail/001/ue260205_2_402/",
     "description": ""
   }
 ]
