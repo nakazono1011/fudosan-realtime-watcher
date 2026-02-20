@@ -1,5 +1,15 @@
 [
   {
+    "id": "ue260220_2_202",
+    "title": "駅近レトロ",
+    "location": "",
+    "rent": "180,000円",
+    "area": "41㎡",
+    "station": "四谷三丁目駅徒歩2分",
+    "url": "https://www.renov-depart.jp/detail/001/ue260220_2_202/",
+    "description": ""
+  },
+  {
     "id": "1806292303",
     "title": "暖かな静けさに包まれてⅡ",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "35.11㎡",
     "station": "代田橋駅徒歩10分",
     "url": "https://www.renov-depart.jp/detail/001/ue260205_2_402/",
-    "description": ""
-  },
-  {
-    "id": "ue260203_2_502",
-    "title": "やさしい蔵前暮らし",
-    "location": "",
-    "rent": "230,000円/20,000円",
-    "area": "53.2㎡",
-    "station": "蔵前駅徒歩3分",
-    "url": "https://www.renov-depart.jp/detail/001/ue260203_2_502/",
     "description": ""
   }
 ]
