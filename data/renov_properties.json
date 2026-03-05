@@ -10,16 +10,6 @@
     "description": ""
   },
   {
-    "id": "ka260304_15",
-    "title": "神様と目覚める朝。",
-    "location": "",
-    "rent": "213,000円",
-    "area": "67.85㎡",
-    "station": "桜上水駅徒歩7分",
-    "url": "https://www.renov-depart.jp/detail/001/ka260304_15/",
-    "description": ""
-  },
-  {
     "id": "hy260227_209",
     "title": "オレンジの木のそばで",
     "location": "",
@@ -110,16 +100,6 @@
     "description": ""
   },
   {
-    "id": "tt251125_1_421",
-    "title": "そうそう、これでいい",
-    "location": "",
-    "rent": "238,000円",
-    "area": "45.59㎡",
-    "station": "渋谷駅徒歩10分",
-    "url": "https://www.renov-depart.jp/detail/001/tt251125_1_421/",
-    "description": ""
-  },
-  {
     "id": "yk260216_1_204",
     "title": "無垢床と、やさしい街",
     "location": "",
@@ -197,6 +177,26 @@
     "area": "44.63㎡",
     "station": "中目黒駅徒歩6分",
     "url": "https://www.renov-depart.jp/detail/001/ue250815_2_04/",
+    "description": ""
+  },
+  {
+    "id": "ha250627_2_002d",
+    "title": "メルヘンチックなお家",
+    "location": "",
+    "rent": "297,000円",
+    "area": "72.81㎡",
+    "station": "都立大学駅徒歩6分",
+    "url": "https://www.renov-depart.jp/detail/001/ha250627_2_002d/",
+    "description": ""
+  },
+  {
+    "id": "ue260205_3_502",
+    "title": "淡く柔らかい",
+    "location": "",
+    "rent": "175,000円/15,000円",
+    "area": "35.11㎡",
+    "station": "代田橋駅徒歩10分",
+    "url": "https://www.renov-depart.jp/detail/001/ue260205_3_502/",
     "description": ""
   }
 ]
