@@ -1,15 +1,5 @@
 [
   {
-    "id": "ka260304_15",
-    "title": "神様と目覚める朝。",
-    "location": "",
-    "rent": "213,000円",
-    "area": "67.85㎡",
-    "station": "桜上水駅徒歩7分",
-    "url": "https://www.renov-depart.jp/detail/001/ka260304_15/",
-    "description": ""
-  },
-  {
     "id": "ka260304_10",
     "title": "欲しいもの全部",
     "location": "",
@@ -17,6 +7,16 @@
     "area": "69.49㎡",
     "station": "桜上水駅徒歩7分",
     "url": "https://www.renov-depart.jp/detail/001/ka260304_10/",
+    "description": ""
+  },
+  {
+    "id": "ka260304_15",
+    "title": "神様と目覚める朝。",
+    "location": "",
+    "rent": "213,000円",
+    "area": "67.85㎡",
+    "station": "桜上水駅徒歩7分",
+    "url": "https://www.renov-depart.jp/detail/001/ka260304_15/",
     "description": ""
   },
   {
