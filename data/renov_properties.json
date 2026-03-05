@@ -1,5 +1,15 @@
 [
   {
+    "id": "ka2603062",
+    "title": "陽光のパレット",
+    "location": "",
+    "rent": "230,000円/3,000円",
+    "area": "49.68㎡",
+    "station": "駒場東大前駅徒歩5分",
+    "url": "https://www.renov-depart.jp/detail/001/ka2603062/",
+    "description": ""
+  },
+  {
     "id": "ka260304_10",
     "title": "欲しいもの全部",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "72.81㎡",
     "station": "都立大学駅徒歩6分",
     "url": "https://www.renov-depart.jp/detail/001/ha250627_2_002d/",
-    "description": ""
-  },
-  {
-    "id": "ue260205_3_502",
-    "title": "淡く柔らかい",
-    "location": "",
-    "rent": "175,000円/15,000円",
-    "area": "35.11㎡",
-    "station": "代田橋駅徒歩10分",
-    "url": "https://www.renov-depart.jp/detail/001/ue260205_3_502/",
     "description": ""
   }
 ]
