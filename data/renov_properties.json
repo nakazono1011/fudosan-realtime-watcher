@@ -160,16 +160,6 @@
     "description": ""
   },
   {
-    "id": "ka260213_301",
-    "title": "隠れた逸材",
-    "location": "",
-    "rent": "218,000円/10,000円",
-    "area": "60.91㎡",
-    "station": "芦花公園駅徒歩2分",
-    "url": "https://www.renov-depart.jp/detail/001/ka260213_301/",
-    "description": ""
-  },
-  {
     "id": "ue250815_2_04",
     "title": "異なる魅力のアート空間",
     "location": "",
@@ -197,6 +187,16 @@
     "area": "35.11㎡",
     "station": "代田橋駅徒歩10分",
     "url": "https://www.renov-depart.jp/detail/001/ue260205_3_502/",
+    "description": ""
+  },
+  {
+    "id": "ue260205_2_402",
+    "title": "シンプルで淡く",
+    "location": "",
+    "rent": "174,000円/15,000円",
+    "area": "35.11㎡",
+    "station": "代田橋駅徒歩10分",
+    "url": "https://www.renov-depart.jp/detail/001/ue260205_2_402/",
     "description": ""
   }
 ]
