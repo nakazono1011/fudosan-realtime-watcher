@@ -1,5 +1,15 @@
 [
   {
+    "id": "ka260304_3063",
+    "title": "八幡山ヴィンテージ",
+    "location": "",
+    "rent": "180,000円",
+    "area": "50.22㎡",
+    "station": "八幡山駅徒歩3分",
+    "url": "https://www.renov-depart.jp/detail/001/ka260304_3063/",
+    "description": ""
+  },
+  {
     "id": "hy251212_6_3A",
     "title": "ひかりの棲む部屋",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "50㎡",
     "station": "北千束駅徒歩3分",
     "url": "https://www.renov-depart.jp/detail/001/hy260213_1_3B/",
-    "description": ""
-  },
-  {
-    "id": "ue250815_2_04",
-    "title": "異なる魅力のアート空間",
-    "location": "",
-    "rent": "235,000円/5,000円",
-    "area": "44.63㎡",
-    "station": "中目黒駅徒歩6分",
-    "url": "https://www.renov-depart.jp/detail/001/ue250815_2_04/",
     "description": ""
   }
 ]
