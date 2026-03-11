@@ -1,5 +1,15 @@
 [
   {
+    "id": "hy251212_6_3A",
+    "title": "ひかりの棲む部屋",
+    "location": "",
+    "rent": "265,000円",
+    "area": "75.43㎡",
+    "station": "中野駅徒歩5分",
+    "url": "https://www.renov-depart.jp/detail/001/hy251212_6_3A/",
+    "description": ""
+  },
+  {
     "id": "ka260213_301",
     "title": "隠れた逸材",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "44.63㎡",
     "station": "中目黒駅徒歩6分",
     "url": "https://www.renov-depart.jp/detail/001/ue250815_2_04/",
-    "description": ""
-  },
-  {
-    "id": "ha250627_2_002d",
-    "title": "メルヘンチックなお家",
-    "location": "",
-    "rent": "297,000円",
-    "area": "72.81㎡",
-    "station": "都立大学駅徒歩6分",
-    "url": "https://www.renov-depart.jp/detail/001/ha250627_2_002d/",
     "description": ""
   }
 ]
