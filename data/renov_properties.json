@@ -1,5 +1,15 @@
 [
   {
+    "id": "ue241211_2_202",
+    "title": "レトロビルのオアシス",
+    "location": "",
+    "rent": "185,000円/7,000円",
+    "area": "54.12㎡",
+    "station": "新中野駅徒歩4分",
+    "url": "https://www.renov-depart.jp/detail/001/ue241211_2_202/",
+    "description": ""
+  },
+  {
     "id": "hy260311_4_301",
     "title": "馬事と味",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "55.35㎡",
     "station": "北浦和駅徒歩6分",
     "url": "https://www.renov-depart.jp/detail/001/na260213_4_308/",
-    "description": ""
-  },
-  {
-    "id": "na260213_4_502",
-    "title": "欲張りリノベ②",
-    "location": "",
-    "rent": "175,000円/10,000円",
-    "area": "55.09㎡",
-    "station": "北浦和駅徒歩6分",
-    "url": "https://www.renov-depart.jp/detail/001/na260213_4_502/",
     "description": ""
   }
 ]
