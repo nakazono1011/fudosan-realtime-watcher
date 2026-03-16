@@ -1,5 +1,15 @@
 [
   {
+    "id": "ka260316_2062",
+    "title": "キッチン時間",
+    "location": "",
+    "rent": "162,000円/3,000円",
+    "area": "56.16㎡",
+    "station": "永福町駅徒歩2分",
+    "url": "https://www.renov-depart.jp/detail/001/ka260316_2062/",
+    "description": ""
+  },
+  {
     "id": "ka260304_10",
     "title": "欲しいもの全部",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "74.45㎡",
     "station": "祐天寺駅徒歩7分",
     "url": "https://www.renov-depart.jp/detail/001/na260213_2_C/",
-    "description": ""
-  },
-  {
-    "id": "na260213_4_308",
-    "title": "欲張りリノベ①",
-    "location": "",
-    "rent": "173,000円/10,000円",
-    "area": "55.35㎡",
-    "station": "北浦和駅徒歩6分",
-    "url": "https://www.renov-depart.jp/detail/001/na260213_4_308/",
     "description": ""
   }
 ]
