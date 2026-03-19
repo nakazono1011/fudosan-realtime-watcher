@@ -1,5 +1,25 @@
 [
   {
+    "id": "na260213_4_502",
+    "title": "欲張りリノベ②",
+    "location": "",
+    "rent": "167,000円/10,000円",
+    "area": "55.09㎡",
+    "station": "北浦和駅徒歩6分",
+    "url": "https://www.renov-depart.jp/detail/001/na260213_4_502/",
+    "description": ""
+  },
+  {
+    "id": "na260213_4_308",
+    "title": "欲張りリノベ①",
+    "location": "",
+    "rent": "165,000円/10,000円",
+    "area": "55.35㎡",
+    "station": "北浦和駅徒歩6分",
+    "url": "https://www.renov-depart.jp/detail/001/na260213_4_308/",
+    "description": ""
+  },
+  {
     "id": "ak260317_1_304",
     "title": "空の下のリビングで",
     "location": "",
@@ -177,26 +197,6 @@
     "area": "41.63㎡",
     "station": "西新宿五丁目駅徒歩7分",
     "url": "https://www.renov-depart.jp/detail/001/nk260217_1_202/",
-    "description": ""
-  },
-  {
-    "id": "yk260216_1_204",
-    "title": "無垢床と、やさしい街",
-    "location": "",
-    "rent": "285,000円/15,000円",
-    "area": "50.85㎡",
-    "station": "桜新町駅徒歩8分",
-    "url": "https://www.renov-depart.jp/detail/001/yk260216_1_204/",
-    "description": ""
-  },
-  {
-    "id": "yk260216_2_302",
-    "title": "ペットとぽかぽか",
-    "location": "",
-    "rent": "270,000円/15,000円",
-    "area": "47.12㎡",
-    "station": "桜新町駅徒歩8分",
-    "url": "https://www.renov-depart.jp/detail/001/yk260216_2_302/",
     "description": ""
   }
 ]
