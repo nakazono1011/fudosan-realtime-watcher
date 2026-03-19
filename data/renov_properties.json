@@ -40,16 +40,6 @@
     "description": ""
   },
   {
-    "id": "ka260316_2062",
-    "title": "キッチン時間",
-    "location": "",
-    "rent": "162,000円/3,000円",
-    "area": "56.16㎡",
-    "station": "永福町駅徒歩2分",
-    "url": "https://www.renov-depart.jp/detail/001/ka260316_2062/",
-    "description": ""
-  },
-  {
     "id": "ka260304_10",
     "title": "欲しいもの全部",
     "location": "",
@@ -197,6 +187,16 @@
     "area": "41.63㎡",
     "station": "西新宿五丁目駅徒歩7分",
     "url": "https://www.renov-depart.jp/detail/001/nk260217_1_202/",
+    "description": ""
+  },
+  {
+    "id": "yk260216_1_204",
+    "title": "無垢床と、やさしい街",
+    "location": "",
+    "rent": "285,000円/15,000円",
+    "area": "50.85㎡",
+    "station": "桜新町駅徒歩8分",
+    "url": "https://www.renov-depart.jp/detail/001/yk260216_1_204/",
     "description": ""
   }
 ]
