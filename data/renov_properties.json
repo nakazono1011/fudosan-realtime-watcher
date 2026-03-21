@@ -1,5 +1,15 @@
 [
   {
+    "id": "ue260321_1_218",
+    "title": "経堂レトロ",
+    "location": "",
+    "rent": "160,000円/5,000円",
+    "area": "40.8㎡",
+    "station": "経堂駅徒歩1分",
+    "url": "https://www.renov-depart.jp/detail/001/ue260321_1_218/",
+    "description": ""
+  },
+  {
     "id": "ka2603062",
     "title": "陽光のパレット",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "41.63㎡",
     "station": "西新宿五丁目駅徒歩7分",
     "url": "https://www.renov-depart.jp/detail/001/nk260217_1_202/",
-    "description": ""
-  },
-  {
-    "id": "yk260216_1_204",
-    "title": "無垢床と、やさしい街",
-    "location": "",
-    "rent": "285,000円/15,000円",
-    "area": "50.85㎡",
-    "station": "桜新町駅徒歩8分",
-    "url": "https://www.renov-depart.jp/detail/001/yk260216_1_204/",
     "description": ""
   }
 ]
