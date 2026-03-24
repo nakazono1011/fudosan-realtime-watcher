@@ -1,5 +1,15 @@
 [
   {
+    "id": "yk260324_2_602",
+    "title": "癒しのヒミコ",
+    "location": "",
+    "rent": "250,000円",
+    "area": "83.9㎡",
+    "station": "千歳船橋駅徒歩20分",
+    "url": "https://www.renov-depart.jp/detail/001/yk260324_2_602/",
+    "description": ""
+  },
+  {
     "id": "ue260309_2_401",
     "title": "ぽかぽかレトロ",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "57.13㎡",
     "station": "代々木八幡駅徒歩6分",
     "url": "https://www.renov-depart.jp/detail/001/ak260203_1_201/",
-    "description": ""
-  },
-  {
-    "id": "nk260217_1_202",
-    "title": "ナチュラルにペットと",
-    "location": "",
-    "rent": "232,000円/18,000円",
-    "area": "41.63㎡",
-    "station": "西新宿五丁目駅徒歩7分",
-    "url": "https://www.renov-depart.jp/detail/001/nk260217_1_202/",
     "description": ""
   }
 ]
