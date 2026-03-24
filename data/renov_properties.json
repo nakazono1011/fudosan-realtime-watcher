@@ -1,5 +1,15 @@
 [
   {
+    "id": "bcgr021251005",
+    "title": "横に繋がる暮らし",
+    "location": "",
+    "rent": "220,000円/20,000円",
+    "area": "61.48㎡",
+    "station": "笹塚駅徒歩5分",
+    "url": "https://www.renov-depart.jp/detail/001/bcgr021251005/",
+    "description": ""
+  },
+  {
     "id": "yk260324_2_602",
     "title": "癒しのヒミコ",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "59.55㎡",
     "station": "池尻大橋駅徒歩8分",
     "url": "https://www.renov-depart.jp/detail/001/1904191211/",
-    "description": ""
-  },
-  {
-    "id": "ak260203_1_201",
-    "title": "陽だまりと曲線",
-    "location": "",
-    "rent": "260,000円/5,000円",
-    "area": "57.13㎡",
-    "station": "代々木八幡駅徒歩6分",
-    "url": "https://www.renov-depart.jp/detail/001/ak260203_1_201/",
     "description": ""
   }
 ]
