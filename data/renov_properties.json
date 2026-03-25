@@ -1,5 +1,15 @@
 [
   {
+    "id": "ak260314_1_706",
+    "title": "青空と暮らそう",
+    "location": "",
+    "rent": "290,000円",
+    "area": "53.62㎡",
+    "station": "恵比寿駅徒歩5分",
+    "url": "https://www.renov-depart.jp/detail/001/ak260314_1_706/",
+    "description": ""
+  },
+  {
     "id": "ak260324_1_1005",
     "title": "横に繋がる暮らし",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "74.12㎡",
     "station": "奥沢駅徒歩1分",
     "url": "https://www.renov-depart.jp/detail/001/sm20240627_1_7/",
-    "description": ""
-  },
-  {
-    "id": "1904191211",
-    "title": "三宿グラシ",
-    "location": "",
-    "rent": "195,000円/10,000円",
-    "area": "59.55㎡",
-    "station": "池尻大橋駅徒歩8分",
-    "url": "https://www.renov-depart.jp/detail/001/1904191211/",
     "description": ""
   }
 ]
