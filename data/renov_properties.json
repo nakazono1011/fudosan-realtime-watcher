@@ -110,16 +110,6 @@
     "description": ""
   },
   {
-    "id": "ka260304_3063",
-    "title": "八幡山ヴィンテージ",
-    "location": "",
-    "rent": "180,000円",
-    "area": "50.22㎡",
-    "station": "八幡山駅徒歩3分",
-    "url": "https://www.renov-depart.jp/detail/001/ka260304_3063/",
-    "description": ""
-  },
-  {
     "id": "hy251212_6_3A",
     "title": "ひかりの棲む部屋",
     "location": "",
@@ -197,6 +187,16 @@
     "area": "59.55㎡",
     "station": "池尻大橋駅徒歩8分",
     "url": "https://www.renov-depart.jp/detail/001/1904191211/",
+    "description": ""
+  },
+  {
+    "id": "ak260203_1_201",
+    "title": "陽だまりと曲線",
+    "location": "",
+    "rent": "260,000円/5,000円",
+    "area": "57.13㎡",
+    "station": "代々木八幡駅徒歩6分",
+    "url": "https://www.renov-depart.jp/detail/001/ak260203_1_201/",
     "description": ""
   }
 ]
