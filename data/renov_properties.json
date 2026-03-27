@@ -50,16 +50,6 @@
     "description": ""
   },
   {
-    "id": "ka2603062",
-    "title": "陽光のパレット",
-    "location": "",
-    "rent": "230,000円/3,000円",
-    "area": "49.68㎡",
-    "station": "駒場東大前駅徒歩5分",
-    "url": "https://www.renov-depart.jp/detail/001/ka2603062/",
-    "description": ""
-  },
-  {
     "id": "na260213_4_502",
     "title": "欲張りリノベ②",
     "location": "",
@@ -197,6 +187,16 @@
     "area": "74.12㎡",
     "station": "奥沢駅徒歩1分",
     "url": "https://www.renov-depart.jp/detail/001/sm20240627_1_7/",
+    "description": ""
+  },
+  {
+    "id": "1904191211",
+    "title": "三宿グラシ",
+    "location": "",
+    "rent": "195,000円/10,000円",
+    "area": "59.55㎡",
+    "station": "池尻大橋駅徒歩8分",
+    "url": "https://www.renov-depart.jp/detail/001/1904191211/",
     "description": ""
   }
 ]
