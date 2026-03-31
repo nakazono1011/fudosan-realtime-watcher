@@ -1,5 +1,15 @@
 [
   {
+    "id": "ka260330_802",
+    "title": "ちょっと癖ある...",
+    "location": "",
+    "rent": "160,000円/12,000円",
+    "area": "56.43㎡",
+    "station": "富士見ヶ丘駅徒歩12分",
+    "url": "https://www.renov-depart.jp/detail/001/ka260330_802/",
+    "description": ""
+  },
+  {
     "id": "is230215_2_4",
     "title": "空への階段",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "74.12㎡",
     "station": "奥沢駅徒歩1分",
     "url": "https://www.renov-depart.jp/detail/001/sm20240627_1_7/",
-    "description": ""
-  },
-  {
-    "id": "1904191211",
-    "title": "三宿グラシ",
-    "location": "",
-    "rent": "195,000円/10,000円",
-    "area": "59.55㎡",
-    "station": "池尻大橋駅徒歩8分",
-    "url": "https://www.renov-depart.jp/detail/001/1904191211/",
     "description": ""
   }
 ]
