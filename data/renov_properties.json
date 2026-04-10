@@ -20,16 +20,6 @@
     "description": ""
   },
   {
-    "id": "ak260328_1_208",
-    "title": "レトロとやさしさ",
-    "location": "",
-    "rent": "153,000円/5,000円",
-    "area": "43㎡",
-    "station": "池尻大橋駅徒歩6分",
-    "url": "https://www.renov-depart.jp/detail/001/ak260328_1_208/",
-    "description": ""
-  },
-  {
     "id": "ak260314_1_706",
     "title": "青空と暮らそう",
     "location": "",
@@ -190,13 +180,23 @@
     "description": ""
   },
   {
-    "id": "1904191211",
-    "title": "三宿グラシ",
+    "id": "ak260203_1_201",
+    "title": "陽だまりと曲線",
     "location": "",
-    "rent": "195,000円/10,000円",
-    "area": "59.55㎡",
-    "station": "池尻大橋駅徒歩8分",
-    "url": "https://www.renov-depart.jp/detail/001/1904191211/",
+    "rent": "260,000円/5,000円",
+    "area": "57.13㎡",
+    "station": "代々木八幡駅徒歩6分",
+    "url": "https://www.renov-depart.jp/detail/001/ak260203_1_201/",
+    "description": ""
+  },
+  {
+    "id": "nk260217_1_202",
+    "title": "ナチュラルにペットと",
+    "location": "",
+    "rent": "232,000円/18,000円",
+    "area": "41.63㎡",
+    "station": "西新宿五丁目駅徒歩7分",
+    "url": "https://www.renov-depart.jp/detail/001/nk260217_1_202/",
     "description": ""
   }
 ]
