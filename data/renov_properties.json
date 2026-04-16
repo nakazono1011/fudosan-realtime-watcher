@@ -140,16 +140,6 @@
     "description": ""
   },
   {
-    "id": "hy260311_4_301",
-    "title": "馬事と味",
-    "location": "",
-    "rent": "210,000円/10,000円",
-    "area": "51.3㎡",
-    "station": "用賀駅徒歩12分",
-    "url": "https://www.renov-depart.jp/detail/001/hy260311_4_301/",
-    "description": ""
-  },
-  {
     "id": "hy251212_6_3A",
     "title": "ひかりの棲む部屋",
     "location": "",
@@ -197,6 +187,16 @@
     "area": "41㎡",
     "station": "四谷三丁目駅徒歩2分",
     "url": "https://www.renov-depart.jp/detail/001/ue260220_2_202/",
+    "description": ""
+  },
+  {
+    "id": "ak260203_1_201",
+    "title": "陽だまりと曲線",
+    "location": "",
+    "rent": "260,000円/5,000円",
+    "area": "57.13㎡",
+    "station": "代々木八幡駅徒歩6分",
+    "url": "https://www.renov-depart.jp/detail/001/ak260203_1_201/",
     "description": ""
   }
 ]
