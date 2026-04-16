@@ -1,5 +1,25 @@
 [
   {
+    "id": "ka260304_10",
+    "title": "欲しいもの全部",
+    "location": "",
+    "rent": "215,000円",
+    "area": "69.49㎡",
+    "station": "桜上水駅徒歩7分",
+    "url": "https://www.renov-depart.jp/detail/001/ka260304_10/",
+    "description": ""
+  },
+  {
+    "id": "yk260416_4_301",
+    "title": "光で満たされる",
+    "location": "",
+    "rent": "295,000円/5,000円",
+    "area": "55.75㎡",
+    "station": "都立大学駅徒歩5分",
+    "url": "https://www.renov-depart.jp/detail/001/yk260416_4_301/",
+    "description": ""
+  },
+  {
     "id": "ka260330_802",
     "title": "ちょっと癖ある...",
     "location": "",
@@ -177,26 +197,6 @@
     "area": "66.28㎡",
     "station": "四ツ谷駅徒歩5分",
     "url": "https://www.renov-depart.jp/detail/001/ue260220_3_702/",
-    "description": ""
-  },
-  {
-    "id": "ue260220_2_202",
-    "title": "駅近レトロ",
-    "location": "",
-    "rent": "180,000円",
-    "area": "41㎡",
-    "station": "四谷三丁目駅徒歩2分",
-    "url": "https://www.renov-depart.jp/detail/001/ue260220_2_202/",
-    "description": ""
-  },
-  {
-    "id": "ak260203_1_201",
-    "title": "陽だまりと曲線",
-    "location": "",
-    "rent": "260,000円/5,000円",
-    "area": "57.13㎡",
-    "station": "代々木八幡駅徒歩6分",
-    "url": "https://www.renov-depart.jp/detail/001/ak260203_1_201/",
     "description": ""
   }
 ]
