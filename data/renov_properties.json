@@ -1,5 +1,15 @@
 [
   {
+    "id": "ka260417_4014",
+    "title": "ようこそ我が家へ",
+    "location": "",
+    "rent": "150,000円/9,000円",
+    "area": "51.61㎡",
+    "station": "仙川駅徒歩10分",
+    "url": "https://www.renov-depart.jp/detail/001/ka260417_4014/",
+    "description": ""
+  },
+  {
     "id": "ka260417_12",
     "title": "絵になる建築美",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "60.91㎡",
     "station": "芦花公園駅徒歩2分",
     "url": "https://www.renov-depart.jp/detail/001/ka260213_301/",
-    "description": ""
-  },
-  {
-    "id": "hy260227_209",
-    "title": "オレンジの木のそばで",
-    "location": "",
-    "rent": "238,000円",
-    "area": "55.86㎡",
-    "station": "日暮里駅徒歩7分",
-    "url": "https://www.renov-depart.jp/detail/001/hy260227_209/",
     "description": ""
   }
 ]
