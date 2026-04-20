@@ -1,15 +1,5 @@
 [
   {
-    "id": "ka260417_4014",
-    "title": "ようこそ我が家へ",
-    "location": "",
-    "rent": "150,000円/9,000円",
-    "area": "51.61㎡",
-    "station": "仙川駅徒歩10分",
-    "url": "https://www.renov-depart.jp/detail/001/ka260417_4014/",
-    "description": ""
-  },
-  {
     "id": "ka260417_12",
     "title": "絵になる建築美",
     "location": "",
@@ -17,6 +7,16 @@
     "area": "78.34㎡",
     "station": "桜上水駅徒歩7分",
     "url": "https://www.renov-depart.jp/detail/001/ka260417_12/",
+    "description": ""
+  },
+  {
+    "id": "ka260417_4014",
+    "title": "ようこそ我が家へ",
+    "location": "",
+    "rent": "150,000円/9,000円",
+    "area": "51.61㎡",
+    "station": "仙川駅徒歩10分",
+    "url": "https://www.renov-depart.jp/detail/001/ka260417_4014/",
     "description": ""
   },
   {
