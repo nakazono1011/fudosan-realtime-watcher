@@ -90,16 +90,6 @@
     "description": ""
   },
   {
-    "id": "ka260409_6036",
-    "title": "侮ることなかれ",
-    "location": "",
-    "rent": "155,000円",
-    "area": "59.67㎡",
-    "station": "桜上水駅徒歩6分",
-    "url": "https://www.renov-depart.jp/detail/001/ka260409_6036/",
-    "description": ""
-  },
-  {
     "id": "ak260314_1_706",
     "title": "青空と暮らそう",
     "location": "",
@@ -197,6 +187,16 @@
     "area": "55.86㎡",
     "station": "日暮里駅徒歩7分",
     "url": "https://www.renov-depart.jp/detail/001/hy260227_209/",
+    "description": ""
+  },
+  {
+    "id": "ue260220_3_702",
+    "title": "街を見渡す",
+    "location": "",
+    "rent": "270,000円",
+    "area": "66.28㎡",
+    "station": "四ツ谷駅徒歩5分",
+    "url": "https://www.renov-depart.jp/detail/001/ue260220_3_702/",
     "description": ""
   }
 ]
