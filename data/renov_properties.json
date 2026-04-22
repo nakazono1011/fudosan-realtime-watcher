@@ -1,5 +1,25 @@
 [
   {
+    "id": "hy260422_2_402",
+    "title": "東から西へ",
+    "location": "",
+    "rent": "280,000円/12,000円",
+    "area": "67.58㎡",
+    "station": "池袋駅徒歩10分",
+    "url": "https://www.renov-depart.jp/detail/001/hy260422_2_402/",
+    "description": ""
+  },
+  {
+    "id": "hy260422_1_406",
+    "title": "御殿山の暮らし",
+    "location": "",
+    "rent": "240,000円",
+    "area": "58.42㎡",
+    "station": "大崎駅徒歩4分",
+    "url": "https://www.renov-depart.jp/detail/001/hy260422_1_406/",
+    "description": ""
+  },
+  {
     "id": "yk260422_1_208",
     "title": "グレーとGreat！",
     "location": "",
@@ -177,26 +197,6 @@
     "area": "54.12㎡",
     "station": "新中野駅徒歩4分",
     "url": "https://www.renov-depart.jp/detail/001/ue241211_2_202/",
-    "description": ""
-  },
-  {
-    "id": "hy251212_6_3A",
-    "title": "ひかりの棲む部屋",
-    "location": "",
-    "rent": "265,000円",
-    "area": "75.43㎡",
-    "station": "中野駅徒歩5分",
-    "url": "https://www.renov-depart.jp/detail/001/hy251212_6_3A/",
-    "description": ""
-  },
-  {
-    "id": "ka260213_301",
-    "title": "隠れた逸材",
-    "location": "",
-    "rent": "218,000円/10,000円",
-    "area": "60.91㎡",
-    "station": "芦花公園駅徒歩2分",
-    "url": "https://www.renov-depart.jp/detail/001/ka260213_301/",
     "description": ""
   }
 ]
