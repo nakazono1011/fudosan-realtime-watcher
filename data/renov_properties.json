@@ -1,5 +1,15 @@
 [
   {
+    "id": "ak260424_1_304",
+    "title": "恵比寿の重鎮",
+    "location": "",
+    "rent": "198,000円/27,590円",
+    "area": "57.57㎡",
+    "station": "恵比寿駅徒歩12分",
+    "url": "https://www.renov-depart.jp/detail/001/ak260424_1_304/",
+    "description": ""
+  },
+  {
     "id": "hy260422_2_402",
     "title": "東から西へ",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "54.12㎡",
     "station": "新中野駅徒歩4分",
     "url": "https://www.renov-depart.jp/detail/001/ue241211_2_202/",
-    "description": ""
-  },
-  {
-    "id": "hy251212_6_3A",
-    "title": "ひかりの棲む部屋",
-    "location": "",
-    "rent": "265,000円",
-    "area": "75.43㎡",
-    "station": "中野駅徒歩5分",
-    "url": "https://www.renov-depart.jp/detail/001/hy251212_6_3A/",
     "description": ""
   }
 ]
