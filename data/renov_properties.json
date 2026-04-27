@@ -50,16 +50,6 @@
     "description": ""
   },
   {
-    "id": "my210301_3",
-    "title": "ロケ推しなやつ。",
-    "location": "",
-    "rent": "170,000円",
-    "area": "43㎡",
-    "station": "代官山駅徒歩2分",
-    "url": "https://www.renov-depart.jp/detail/001/my210301_3/",
-    "description": ""
-  },
-  {
     "id": "ka260417_4014",
     "title": "ようこそ我が家へ",
     "location": "",
@@ -197,6 +187,16 @@
     "area": "80.6㎡",
     "station": "笹塚駅徒歩8分",
     "url": "https://www.renov-depart.jp/detail/001/ak260317_1_304/",
+    "description": ""
+  },
+  {
+    "id": "ue241211_2_202",
+    "title": "レトロビルのオアシス",
+    "location": "",
+    "rent": "185,000円/7,000円",
+    "area": "54.12㎡",
+    "station": "新中野駅徒歩4分",
+    "url": "https://www.renov-depart.jp/detail/001/ue241211_2_202/",
     "description": ""
   }
 ]
