@@ -1,5 +1,15 @@
 [
   {
+    "id": "ue240116_1_202",
+    "title": "明と暗を楽しむ",
+    "location": "",
+    "rent": "245,000円/12,000円",
+    "area": "45.94㎡",
+    "station": "目黒駅徒歩6分",
+    "url": "https://www.renov-depart.jp/detail/001/ue240116_1_202/",
+    "description": ""
+  },
+  {
     "id": "ak260424_1_304",
     "title": "恵比寿の重鎮",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "80.6㎡",
     "station": "笹塚駅徒歩8分",
     "url": "https://www.renov-depart.jp/detail/001/ak260317_1_304/",
-    "description": ""
-  },
-  {
-    "id": "ue241211_2_202",
-    "title": "レトロビルのオアシス",
-    "location": "",
-    "rent": "185,000円/7,000円",
-    "area": "54.12㎡",
-    "station": "新中野駅徒歩4分",
-    "url": "https://www.renov-depart.jp/detail/001/ue241211_2_202/",
     "description": ""
   }
 ]
