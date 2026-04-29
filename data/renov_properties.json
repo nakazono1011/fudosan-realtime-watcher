@@ -1,5 +1,15 @@
 [
   {
+    "id": "1908032701",
+    "title": "駅からひと続き！",
+    "location": "",
+    "rent": "198,000円/20,000円",
+    "area": "61.1㎡",
+    "station": "笹塚駅徒歩4分",
+    "url": "https://www.renov-depart.jp/detail/001/1908032701/",
+    "description": ""
+  },
+  {
     "id": "ak260424_1_304",
     "title": "恵比寿の重鎮",
     "location": "",
@@ -177,16 +187,6 @@
     "area": "55.35㎡",
     "station": "北浦和駅徒歩6分",
     "url": "https://www.renov-depart.jp/detail/001/na260213_4_308/",
-    "description": ""
-  },
-  {
-    "id": "ak260317_1_304",
-    "title": "空の下のリビングで",
-    "location": "",
-    "rent": "265,000円/10,000円",
-    "area": "80.6㎡",
-    "station": "笹塚駅徒歩8分",
-    "url": "https://www.renov-depart.jp/detail/001/ak260317_1_304/",
     "description": ""
   }
 ]
