@@ -140,16 +140,6 @@
     "description": ""
   },
   {
-    "id": "ak260314_1_706",
-    "title": "青空と暮らそう",
-    "location": "",
-    "rent": "290,000円",
-    "area": "53.62㎡",
-    "station": "恵比寿駅徒歩5分",
-    "url": "https://www.renov-depart.jp/detail/001/ak260314_1_706/",
-    "description": ""
-  },
-  {
     "id": "ak260324_1_1005",
     "title": "横に繋がる暮らし",
     "location": "",
@@ -187,6 +177,16 @@
     "area": "55.35㎡",
     "station": "北浦和駅徒歩6分",
     "url": "https://www.renov-depart.jp/detail/001/na260213_4_308/",
+    "description": ""
+  },
+  {
+    "id": "ak260317_1_304",
+    "title": "空の下のリビングで",
+    "location": "",
+    "rent": "265,000円/10,000円",
+    "area": "80.6㎡",
+    "station": "笹塚駅徒歩8分",
+    "url": "https://www.renov-depart.jp/detail/001/ak260317_1_304/",
     "description": ""
   }
 ]
