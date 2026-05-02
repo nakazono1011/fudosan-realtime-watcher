@@ -1,5 +1,15 @@
 [
   {
+    "id": "ks260502_2_301",
+    "title": "計6つのバルコニー",
+    "location": "",
+    "rent": "240,000円/10,000円",
+    "area": "66.4㎡",
+    "station": "池尻大橋駅徒歩6分",
+    "url": "https://www.renov-depart.jp/detail/001/ks260502_2_301/",
+    "description": ""
+  },
+  {
     "id": "1908032701",
     "title": "駅からひと続き！",
     "location": "",
@@ -177,16 +187,6 @@
     "area": "55.35㎡",
     "station": "北浦和駅徒歩6分",
     "url": "https://www.renov-depart.jp/detail/001/na260213_4_308/",
-    "description": ""
-  },
-  {
-    "id": "ak260317_1_304",
-    "title": "空の下のリビングで",
-    "location": "",
-    "rent": "265,000円/10,000円",
-    "area": "80.6㎡",
-    "station": "笹塚駅徒歩8分",
-    "url": "https://www.renov-depart.jp/detail/001/ak260317_1_304/",
     "description": ""
   }
 ]
