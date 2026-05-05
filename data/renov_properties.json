@@ -1,5 +1,15 @@
 [
   {
+    "id": "ue260505_1_202",
+    "title": "赤煉瓦のヴィンテージ",
+    "location": "",
+    "rent": "270,000円",
+    "area": "65.14㎡",
+    "station": "表参道駅徒歩13分",
+    "url": "https://www.renov-depart.jp/detail/001/ue260505_1_202/",
+    "description": ""
+  },
+  {
     "id": "ks260502_2_301",
     "title": "計6つのバルコニー",
     "location": "",
@@ -177,16 +187,6 @@
     "area": "61.48㎡",
     "station": "笹塚駅徒歩5分",
     "url": "https://www.renov-depart.jp/detail/001/ak260324_1_1005/",
-    "description": ""
-  },
-  {
-    "id": "ue260309_2_401",
-    "title": "ぽかぽかレトロ",
-    "location": "",
-    "rent": "170,000円/5,000円",
-    "area": "40.01㎡",
-    "station": "下北沢駅徒歩9分",
-    "url": "https://www.renov-depart.jp/detail/001/ue260309_2_401/",
     "description": ""
   }
 ]
