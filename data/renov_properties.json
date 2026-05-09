@@ -1,5 +1,25 @@
 [
   {
+    "id": "ak260509_2_302",
+    "title": "黄緑キッチンと青空と",
+    "location": "",
+    "rent": "220,000円/5,000円",
+    "area": "61.8㎡",
+    "station": "学芸大学駅徒歩14分",
+    "url": "https://www.renov-depart.jp/detail/001/ak260509_2_302/",
+    "description": ""
+  },
+  {
+    "id": "ka260304_10",
+    "title": "欲しいもの全部",
+    "location": "",
+    "rent": "215,000円",
+    "area": "69.49㎡",
+    "station": "桜上水駅徒歩7分",
+    "url": "https://www.renov-depart.jp/detail/001/ka260304_10/",
+    "description": ""
+  },
+  {
     "id": "hy260507_3_301",
     "title": "洗足池っていいですよね ^^",
     "location": "",
@@ -17,16 +37,6 @@
     "area": "78.34㎡",
     "station": "桜上水駅徒歩7分",
     "url": "https://www.renov-depart.jp/detail/001/ka260417_12/",
-    "description": ""
-  },
-  {
-    "id": "ka260304_10",
-    "title": "欲しいもの全部",
-    "location": "",
-    "rent": "215,000円",
-    "area": "69.49㎡",
-    "station": "桜上水駅徒歩7分",
-    "url": "https://www.renov-depart.jp/detail/001/ka260304_10/",
     "description": ""
   },
   {
@@ -177,16 +187,6 @@
     "area": "74.12㎡",
     "station": "奥沢駅徒歩1分",
     "url": "https://www.renov-depart.jp/detail/001/sm20240627_1_7/",
-    "description": ""
-  },
-  {
-    "id": "yk260324_2_602",
-    "title": "癒しのヒミコ",
-    "location": "",
-    "rent": "250,000円",
-    "area": "83.9㎡",
-    "station": "千歳船橋駅徒歩20分",
-    "url": "https://www.renov-depart.jp/detail/001/yk260324_2_602/",
     "description": ""
   }
 ]
