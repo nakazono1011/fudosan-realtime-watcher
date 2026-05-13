@@ -1,5 +1,15 @@
 [
   {
+    "id": "ue260309_2_401",
+    "title": "ぽかぽかレトロ",
+    "location": "",
+    "rent": "170,000円/5,000円",
+    "area": "40.01㎡",
+    "station": "下北沢駅徒歩9分",
+    "url": "https://www.renov-depart.jp/detail/001/ue260309_2_401/",
+    "description": ""
+  },
+  {
     "id": "1906293302",
     "title": "キッチンが主役",
     "location": "",
@@ -177,16 +187,6 @@
     "area": "55.75㎡",
     "station": "都立大学駅徒歩5分",
     "url": "https://www.renov-depart.jp/detail/001/yk260416_4_301/",
-    "description": ""
-  },
-  {
-    "id": "ka260330_802",
-    "title": "ちょっと癖ある...",
-    "location": "",
-    "rent": "160,000円/12,000円",
-    "area": "56.43㎡",
-    "station": "富士見ヶ丘駅徒歩12分",
-    "url": "https://www.renov-depart.jp/detail/001/ka260330_802/",
     "description": ""
   }
 ]
