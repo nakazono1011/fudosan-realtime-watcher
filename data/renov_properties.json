@@ -120,16 +120,6 @@
     "description": ""
   },
   {
-    "id": "ak260424_1_304",
-    "title": "恵比寿の重鎮",
-    "location": "",
-    "rent": "198,000円/27,590円",
-    "area": "57.57㎡",
-    "station": "恵比寿駅徒歩12分",
-    "url": "https://www.renov-depart.jp/detail/001/ak260424_1_304/",
-    "description": ""
-  },
-  {
     "id": "ue240116_1_202",
     "title": "明と暗を楽しむ",
     "location": "",
@@ -187,6 +177,16 @@
     "area": "55.75㎡",
     "station": "都立大学駅徒歩5分",
     "url": "https://www.renov-depart.jp/detail/001/yk260416_4_301/",
+    "description": ""
+  },
+  {
+    "id": "ka260330_802",
+    "title": "ちょっと癖ある...",
+    "location": "",
+    "rent": "160,000円/12,000円",
+    "area": "56.43㎡",
+    "station": "富士見ヶ丘駅徒歩12分",
+    "url": "https://www.renov-depart.jp/detail/001/ka260330_802/",
     "description": ""
   }
 ]
