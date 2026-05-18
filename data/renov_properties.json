@@ -1,5 +1,25 @@
 [
   {
+    "id": "yk260324_2_602",
+    "title": "癒しのヒミコ",
+    "location": "",
+    "rent": "215,000円/15,000円",
+    "area": "83.9㎡",
+    "station": "千歳船橋駅徒歩20分",
+    "url": "https://www.renov-depart.jp/detail/001/yk260324_2_602/",
+    "description": ""
+  },
+  {
+    "id": "ks260502_4_201",
+    "title": "赤と白のチェッカータイル",
+    "location": "",
+    "rent": "205,000円/5,000円",
+    "area": "67㎡",
+    "station": "豪徳寺駅徒歩8分",
+    "url": "https://www.renov-depart.jp/detail/001/ks260502_4_201/",
+    "description": ""
+  },
+  {
     "id": "ka260304_10",
     "title": "欲しいもの全部",
     "location": "",
@@ -90,16 +110,6 @@
     "description": ""
   },
   {
-    "id": "ks260502_4_201",
-    "title": "赤と白のチェッカータイル",
-    "location": "",
-    "rent": "215,000円/5,000円",
-    "area": "67㎡",
-    "station": "豪徳寺駅徒歩8分",
-    "url": "https://www.renov-depart.jp/detail/001/ks260502_4_201/",
-    "description": ""
-  },
-  {
     "id": "ks260502_3_0306",
     "title": "ホッと安心する街で",
     "location": "",
@@ -177,16 +187,6 @@
     "area": "55.75㎡",
     "station": "都立大学駅徒歩5分",
     "url": "https://www.renov-depart.jp/detail/001/yk260416_4_301/",
-    "description": ""
-  },
-  {
-    "id": "ka260330_802",
-    "title": "ちょっと癖ある...",
-    "location": "",
-    "rent": "160,000円/12,000円",
-    "area": "56.43㎡",
-    "station": "富士見ヶ丘駅徒歩12分",
-    "url": "https://www.renov-depart.jp/detail/001/ka260330_802/",
     "description": ""
   }
 ]
