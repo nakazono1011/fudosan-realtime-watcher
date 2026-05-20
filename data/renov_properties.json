@@ -188,5 +188,15 @@
     "station": "都立大学駅徒歩5分",
     "url": "https://www.renov-depart.jp/detail/001/yk260416_4_301/",
     "description": ""
+  },
+  {
+    "id": "ka260330_802",
+    "title": "ちょっと癖ある...",
+    "location": "",
+    "rent": "160,000円/12,000円",
+    "area": "56.43㎡",
+    "station": "富士見ヶ丘駅徒歩12分",
+    "url": "https://www.renov-depart.jp/detail/001/ka260330_802/",
+    "description": ""
   }
 ]
