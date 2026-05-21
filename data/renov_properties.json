@@ -140,16 +140,6 @@
     "description": ""
   },
   {
-    "id": "hy260422_2_402",
-    "title": "東から西へ",
-    "location": "",
-    "rent": "280,000円/12,000円",
-    "area": "67.58㎡",
-    "station": "池袋駅徒歩10分",
-    "url": "https://www.renov-depart.jp/detail/001/hy260422_2_402/",
-    "description": ""
-  },
-  {
     "id": "hy260422_1_406",
     "title": "御殿山の暮らし",
     "location": "",
@@ -197,6 +187,16 @@
     "area": "56.43㎡",
     "station": "富士見ヶ丘駅徒歩12分",
     "url": "https://www.renov-depart.jp/detail/001/ka260330_802/",
+    "description": ""
+  },
+  {
+    "id": "ka260304_3063",
+    "title": "八幡山ヴィンテージ",
+    "location": "",
+    "rent": "180,000円",
+    "area": "50.22㎡",
+    "station": "八幡山駅徒歩3分",
+    "url": "https://www.renov-depart.jp/detail/001/ka260304_3063/",
     "description": ""
   }
 ]
