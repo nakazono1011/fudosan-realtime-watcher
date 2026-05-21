@@ -1,5 +1,15 @@
 [
   {
+    "id": "ka260304_3063",
+    "title": "八幡山ヴィンテージ",
+    "location": "",
+    "rent": "180,000円",
+    "area": "50.22㎡",
+    "station": "八幡山駅徒歩3分",
+    "url": "https://www.renov-depart.jp/detail/001/ka260304_3063/",
+    "description": ""
+  },
+  {
     "id": "ue260519_4_201",
     "title": "ゆるやかな空気感",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "56.43㎡",
     "station": "富士見ヶ丘駅徒歩12分",
     "url": "https://www.renov-depart.jp/detail/001/ka260330_802/",
-    "description": ""
-  },
-  {
-    "id": "ka260304_3063",
-    "title": "八幡山ヴィンテージ",
-    "location": "",
-    "rent": "180,000円",
-    "area": "50.22㎡",
-    "station": "八幡山駅徒歩3分",
-    "url": "https://www.renov-depart.jp/detail/001/ka260304_3063/",
     "description": ""
   }
 ]
