@@ -180,16 +180,6 @@
     "description": ""
   },
   {
-    "id": "yk260416_4_301",
-    "title": "光で満たされる",
-    "location": "",
-    "rent": "295,000円/5,000円",
-    "area": "55.75㎡",
-    "station": "都立大学駅徒歩5分",
-    "url": "https://www.renov-depart.jp/detail/001/yk260416_4_301/",
-    "description": ""
-  },
-  {
     "id": "ka260330_802",
     "title": "ちょっと癖ある...",
     "location": "",
@@ -197,6 +187,16 @@
     "area": "56.43㎡",
     "station": "富士見ヶ丘駅徒歩12分",
     "url": "https://www.renov-depart.jp/detail/001/ka260330_802/",
+    "description": ""
+  },
+  {
+    "id": "sm20240627_1_7",
+    "title": "レトロポップ",
+    "location": "",
+    "rent": "239,000円/10,000円",
+    "area": "74.12㎡",
+    "station": "奥沢駅徒歩1分",
+    "url": "https://www.renov-depart.jp/detail/001/sm20240627_1_7/",
     "description": ""
   }
 ]
