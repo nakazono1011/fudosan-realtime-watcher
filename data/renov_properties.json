@@ -1,5 +1,15 @@
 [
   {
+    "id": "hy260526_1_203",
+    "title": "ちょうどいい距離感",
+    "location": "",
+    "rent": "140,000円/10,000円",
+    "area": "40㎡",
+    "station": "駒沢大学駅徒歩7分",
+    "url": "https://www.renov-depart.jp/detail/001/hy260526_1_203/",
+    "description": ""
+  },
+  {
     "id": "yk260525_3_202",
     "title": "屋根裏みたいなメゾネット",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "74.12㎡",
     "station": "奥沢駅徒歩1分",
     "url": "https://www.renov-depart.jp/detail/001/sm20240627_1_7/",
-    "description": ""
-  },
-  {
-    "id": "ak260414_1_501",
-    "title": "最上階ヴィンテージの醍醐味",
-    "location": "",
-    "rent": "250,000円/10,000円",
-    "area": "74㎡",
-    "station": "新高円寺駅徒歩7分",
-    "url": "https://www.renov-depart.jp/detail/001/ak260414_1_501/",
     "description": ""
   }
 ]
