@@ -1,5 +1,15 @@
 [
   {
+    "id": "ka260527_723",
+    "title": "砧village",
+    "location": "",
+    "rent": "261,000円/15,000円",
+    "area": "62.91㎡",
+    "station": "祖師ヶ谷大蔵駅徒歩9分",
+    "url": "https://www.renov-depart.jp/detail/001/ka260527_723/",
+    "description": ""
+  },
+  {
     "id": "hy260526_1_203",
     "title": "ちょうどいい距離感",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "56.43㎡",
     "station": "富士見ヶ丘駅徒歩12分",
     "url": "https://www.renov-depart.jp/detail/001/ka260330_802/",
-    "description": ""
-  },
-  {
-    "id": "sm20240627_1_7",
-    "title": "レトロポップ",
-    "location": "",
-    "rent": "239,000円/10,000円",
-    "area": "74.12㎡",
-    "station": "奥沢駅徒歩1分",
-    "url": "https://www.renov-depart.jp/detail/001/sm20240627_1_7/",
     "description": ""
   }
 ]
