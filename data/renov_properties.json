@@ -1,5 +1,15 @@
 [
   {
+    "id": "ka260527_311",
+    "title": "ナチュラルな君に",
+    "location": "",
+    "rent": "210,000円",
+    "area": "62.63㎡",
+    "station": "千歳烏山駅徒歩5分",
+    "url": "https://www.renov-depart.jp/detail/001/ka260527_311/",
+    "description": ""
+  },
+  {
     "id": "ka260527_723",
     "title": "砧village",
     "location": "",
@@ -187,16 +197,6 @@
     "area": "51.61㎡",
     "station": "仙川駅徒歩10分",
     "url": "https://www.renov-depart.jp/detail/001/ka260417_4014/",
-    "description": ""
-  },
-  {
-    "id": "ka260330_802",
-    "title": "ちょっと癖ある...",
-    "location": "",
-    "rent": "160,000円/12,000円",
-    "area": "56.43㎡",
-    "station": "富士見ヶ丘駅徒歩12分",
-    "url": "https://www.renov-depart.jp/detail/001/ka260330_802/",
     "description": ""
   }
 ]
