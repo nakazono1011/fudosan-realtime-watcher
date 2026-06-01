@@ -80,16 +80,6 @@
     "description": ""
   },
   {
-    "id": "ue260519_4_201",
-    "title": "ゆるやかな空気感",
-    "location": "",
-    "rent": "238,000円/10,000円",
-    "area": "42.85㎡",
-    "station": "都立大学駅徒歩6分",
-    "url": "https://www.renov-depart.jp/detail/001/ue260519_4_201/",
-    "description": ""
-  },
-  {
     "id": "ka260304_3063",
     "title": "八幡山ヴィンテージ",
     "location": "",
@@ -197,6 +187,16 @@
     "area": "58.42㎡",
     "station": "大崎駅徒歩4分",
     "url": "https://www.renov-depart.jp/detail/001/hy260422_1_406/",
+    "description": ""
+  },
+  {
+    "id": "yk260422_1_208",
+    "title": "グレーとGreat！",
+    "location": "",
+    "rent": "240,000円",
+    "area": "47.8㎡",
+    "station": "駒沢大学駅徒歩14分",
+    "url": "https://www.renov-depart.jp/detail/001/yk260422_1_208/",
     "description": ""
   }
 ]
