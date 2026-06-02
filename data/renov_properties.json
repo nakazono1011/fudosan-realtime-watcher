@@ -100,16 +100,6 @@
     "description": ""
   },
   {
-    "id": "yk260324_2_602",
-    "title": "癒しのヒミコ",
-    "location": "",
-    "rent": "215,000円/15,000円",
-    "area": "83.9㎡",
-    "station": "千歳船橋駅徒歩20分",
-    "url": "https://www.renov-depart.jp/detail/001/yk260324_2_602/",
-    "description": ""
-  },
-  {
     "id": "ue260309_2_401",
     "title": "ぽかぽかレトロ",
     "location": "",
@@ -197,6 +187,16 @@
     "area": "58.42㎡",
     "station": "大崎駅徒歩4分",
     "url": "https://www.renov-depart.jp/detail/001/hy260422_1_406/",
+    "description": ""
+  },
+  {
+    "id": "yk260422_1_208",
+    "title": "グレーとGreat！",
+    "location": "",
+    "rent": "240,000円",
+    "area": "47.8㎡",
+    "station": "駒沢大学駅徒歩14分",
+    "url": "https://www.renov-depart.jp/detail/001/yk260422_1_208/",
     "description": ""
   }
 ]
