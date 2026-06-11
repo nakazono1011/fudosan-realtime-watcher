@@ -1,12 +1,12 @@
 [
   {
-    "id": "ka260527_723",
-    "title": "砧village",
+    "id": "ka260527_311",
+    "title": "ナチュラルな君に",
     "location": "",
-    "rent": "261,000円/15,000円",
-    "area": "62.91㎡",
-    "station": "祖師ヶ谷大蔵駅徒歩9分",
-    "url": "https://www.renov-depart.jp/detail/001/ka260527_723/",
+    "rent": "210,000円",
+    "area": "62.63㎡",
+    "station": "千歳烏山駅徒歩5分",
+    "url": "https://www.renov-depart.jp/detail/001/ka260527_311/",
     "description": ""
   },
   {
@@ -100,16 +100,6 @@
     "description": ""
   },
   {
-    "id": "ka260527_311",
-    "title": "ナチュラルな君に",
-    "location": "",
-    "rent": "210,000円",
-    "area": "62.63㎡",
-    "station": "千歳烏山駅徒歩5分",
-    "url": "https://www.renov-depart.jp/detail/001/ka260527_311/",
-    "description": ""
-  },
-  {
     "id": "hy260526_1_203",
     "title": "ちょうどいい距離感",
     "location": "",
@@ -197,6 +187,16 @@
     "area": "45.36㎡",
     "station": "桜新町駅徒歩8分",
     "url": "https://www.renov-depart.jp/detail/001/ks260502_3_0306/",
+    "description": ""
+  },
+  {
+    "id": "1908032701",
+    "title": "駅からひと続き！",
+    "location": "",
+    "rent": "198,000円/20,000円",
+    "area": "61.1㎡",
+    "station": "笹塚駅徒歩4分",
+    "url": "https://www.renov-depart.jp/detail/001/1908032701/",
     "description": ""
   }
 ]
